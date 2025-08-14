@@ -1,0 +1,45 @@
+XAU
+XAU Calc Pro — Offline PWA
+Minimal • Vibrant • Ready to add to Home Screen
+
+Dark
+
+Instrument
+          XAUUSD — Gold (typical broker)
+          XAGUSD — Silver
+          USOIL — Crude Oil
+          Custom
+        
+Contract Size per Lot (units) — editable
+USD/ZAR
+Price (USD)
+Leverage
+Positions (N)
+Mode
+          Simple (fixed lot)
+          Risk-Based (compute lot)
+        
+Lot per position (L)
+Per-position targets & SLs (points = $1 each)
+TP1 (pts)
+TP2 (pts)
+TP3 (pts)
+SL1 (pts)
+SL2 (pts)
+SL3 (pts)
+R / point (per position)
+—
+R / point (basket)
+—
+Profit @TPs (ZAR)
+—
+Risk if SLs hit (ZAR)
+—
+Basket R:R
+—
+Margin (all positions)
+—
+Points to hit R1,100: —  ·  Points to hit R2,000: —
+Save Preset Load Preset Share Summary
+
+Add to Home Screen: Share → Add to Home Screen (Safari). PWA ready — offline cache included.
